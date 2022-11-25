@@ -1,6 +1,6 @@
 # GNR638-Project
 **Team Members:**<br />
-Soutrik Sarangi, Mrunal Lalwali, Amit Kumar, Sahil Khan<br />
+Soutrik Sarangi, Mrunal Lalwani, Amit Kumar, Sahil Khan<br />
 **Paper Implemented**<br />
 https://arxiv.org/abs/1611.07004(Pix2Pix GAN for image to image translation)
 **Required modules and frameworks**<br />
